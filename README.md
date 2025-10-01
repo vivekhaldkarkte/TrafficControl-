@@ -6,7 +6,7 @@ Traffic control is a decentralized smart contract that allows secure and transpa
 
 ## Project Vision
 
-The goal is to digitize and decentralize urban traffic systems, ensuring safer and more efficient roads by integrating smart contracts with IoT-based sensors and emergency protocols.
+The goal is to digitize and decentralize urban traffic systems, ensuring safer and more efficient roads by integrating smart contracts with IoT-based sensors and emergency protocols
 
 ## Key Features
 
@@ -24,4 +24,5 @@ The goal is to digitize and decentralize urban traffic systems, ensuring safer a
 
 ## contract details
 0xeE88159dE6D7f6EFb4A092D92Fb720aeD4138092
+
 ![alt text](image.png)
