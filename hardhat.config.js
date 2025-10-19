@@ -10,7 +10,7 @@ module.exports = {
   networks: {
     coreTestnet: {
       url: "https://rpc.test2.btcs.network",
-      accounts: process.env.PRIVATE_KEY ? [process.env.PRIVATE_KEY] : [] ,
+      accounts: process.env.PRIVATE_KEY ? [process.env.PRIVATE_KEY] : []  ,
       chainId: 1114,
    },
   },
@@ -21,6 +21,7 @@ module.exports = {
     tests:"./test",
   },
 };
+
 
 
 
