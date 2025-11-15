@@ -22,10 +22,11 @@ The goal is to digitize and decentralize urban traffic systems, ensuring safer a
 - On-chain traffic analytics and monitoring dashboard
 - Mobile interface for real-time control and updates
 
-## contract details
+## contract Details
 0xeE88159dE6D7f6EFb4A092D92Fb720aeD4138092
 
 ![alt text](image.png)
+
 
 
 
