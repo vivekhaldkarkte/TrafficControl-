@@ -2,7 +2,7 @@
 
 ## Project Description
 
-Traffic control is a decentralized smart contract that allows secure and transparent management of traffic signals. It ensures only authorized control, supports emergency overrides, and provides signal state visibility.
+Traffic control is a decentralized smart contract that allows secure and transparent management of traffic signals. It ensures only authorized control, supports emergency overrides, and provides signal state visibility
 
 ## Project Vision
 
@@ -26,6 +26,7 @@ The goal is to digitize and decentralize urban traffic systems, ensuring safer a
 0xeE88159dE6D7f6EFb4A092D92Fb720aeD4138092
 
 ![alt text](image.png)
+
 
 
 
