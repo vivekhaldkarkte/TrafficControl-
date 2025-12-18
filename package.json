@@ -21,11 +21,12 @@
     "ethers": "^5.0.0",
     "hardhat": "^2.14.0"
   },
-  "dependencies": {
+  "dependencies":{
     "@openzeppelin/contracts" :"^4.8.3"
   }
 
 } 
+
 
 
 
